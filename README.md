@@ -1,3 +1,14 @@
+## Instructions
+to generate the plots, first the data must be downloaded and unzipped in the working directory.
+The data can be downloaded from <a href=https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip> here </a>.
+When unzipped you should have the plotX.R scripts and the data ("household_power_consumption.txt") on the same directory.
+
+To generate each plot you should source the corresponding script in R:
+* `source("plot1.R")` generates the file plot1.png.
+* `source("plot2.R")` generates the file plot2.png.
+* `source("plot3.R")` generates the file plot3.png.
+* `source("plot4.R")` generates the file plot4.png.
+
 ## Introduction
 
 This assignment uses data from
